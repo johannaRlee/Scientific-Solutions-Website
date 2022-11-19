@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "faker": "^4.1.0",
-    "nuxt": "^2.11.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.10.1",
